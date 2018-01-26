@@ -7,3 +7,5 @@
 [各种漏洞poc、Exp的收集或编写](https://github.com/coffeehb/Some-PoC-oR-ExP)
 
 [CMS漏洞测试用例集合](https://github.com/SecWiki/CMS-Hunter)
+
+[一些exp](https://github.com/rootphantomer/exp)
